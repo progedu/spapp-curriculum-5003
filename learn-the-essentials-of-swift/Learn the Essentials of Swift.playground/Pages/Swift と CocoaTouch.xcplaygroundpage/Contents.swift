@@ -1,3 +1,4 @@
+// Copyright© DWANGO Co.,Ltd. All Rights Reserved.
 /*:
  # Swift と CocoaTouch
  ## Swift Standard Library

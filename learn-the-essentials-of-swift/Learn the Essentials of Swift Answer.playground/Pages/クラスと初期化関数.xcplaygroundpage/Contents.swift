@@ -1,3 +1,4 @@
+// Copyright© DWANGO Co.,Ltd. All Rights Reserved.
 /*:
  # クラスと初期化関数
  `Shape` クラス

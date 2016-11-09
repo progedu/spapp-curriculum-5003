@@ -1,3 +1,4 @@
+// Copyright© DWANGO Co.,Ltd. All Rights Reserved.
 /*:
  # 基本型
  ## 定数と変数

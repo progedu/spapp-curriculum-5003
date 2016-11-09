@@ -1,3 +1,4 @@
+// Copyright© DWANGO Co.,Ltd. All Rights Reserved.
 /*:
  # 列挙型と構造体
  ## 列挙型

@@ -1,3 +1,4 @@
+// Copyright© DWANGO Co.,Ltd. All Rights Reserved.
 /*:
  # 関数
  `greet` 関数
