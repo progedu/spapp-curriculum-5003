@@ -21,4 +21,4 @@ if exampleString.hasSuffix("lo") {
     print("ends in lo")
 }
 
-//: [Previous](@previous) | [Next](@next)
+//: [Previous](@previous)

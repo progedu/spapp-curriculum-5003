@@ -14,4 +14,4 @@
 
 
 
-//: [Previous](@previous) | [Next](@next)
+//: [Previous](@previous)
