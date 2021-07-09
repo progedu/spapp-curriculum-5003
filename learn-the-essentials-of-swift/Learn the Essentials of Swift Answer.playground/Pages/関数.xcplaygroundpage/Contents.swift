@@ -16,21 +16,21 @@ greet(name: "Charlie", day: "a nice day")
 
 //: タプルを返す関数を実装してみましょう。
 
-func calculateStatistics(scores: [Int]) -> (min: Int, max: Int, sum: Int) {
-    var min = scores[0]
-    var max = scores[0]
+func calculateStatistics(scores: [Int]) -> (min_score: Int, max_score: Int, sum: Int) {
+    var min_score = scores[0]
+    var max_score = scores[0]
     var sum = 0
 
     for score in scores {
-        if score > max {
-            max = score
-        } else if score < min {
-            min = score
+        if score > max_score {
+            max_score = score
+        } else if score < min_score {
+            min_score = score
         }
         sum += score
     }
 
-    return (min, max, sum)
+    return (min_score, max_score, sum)
 }
 
 //: その関数を呼んでみましょう。

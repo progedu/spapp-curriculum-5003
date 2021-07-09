@@ -51,6 +51,7 @@ case let x where x.hasSuffix("pepper"):
 default:
     let vegetableComment = "Everything tastes good in soup."
 }
+print(vegetableComment)
 
 /*:
  > `default` ケースを取り除くとどうなるでしょう？
